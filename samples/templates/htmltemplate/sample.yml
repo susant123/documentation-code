@@ -1,0 +1,7 @@
+title: Basic HTML Template
+template: samples.templates.htmltemplate.SimpleTemplate
+description: This is demonstrate a basic HTML template
+sources:
+- SimpleTemplate.tpl
+- SimpleSubTemplate.tpl
+- TemplateData.js

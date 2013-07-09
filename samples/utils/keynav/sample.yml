@@ -1,0 +1,7 @@
+title: Table Navigation Example
+template: samples.utils.loadingoverlay.LoadingOverlayTemplate
+description: Table navigation provides advanced keyboard navigation in the HTML table.
+sources:
+- KeyboardNavigation.tpl
+- KeyboardNavigationScript.js
+- KeyboardNavigationCSS.tpl.css

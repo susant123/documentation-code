@@ -1,0 +1,12 @@
+title: TextInput Widget - Sample usage
+template: samples.widgets.widgetlibs.gauge.SampleUsage
+description: It shows the Gauge Widget working with a specific value or in searching mode.
+data:
+  currentValue: 20
+  maxValue: 100
+  label: ""
+  isCheckMe: true
+sources:
+- BaseTextInputTag.tpl
+- BaseTextInputTagScript.js
+- Style.tpl.css
