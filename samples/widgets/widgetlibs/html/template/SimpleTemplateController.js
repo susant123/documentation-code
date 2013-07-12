@@ -3,7 +3,7 @@
  */
 /**
  * A module controller to manage simple html template include widget
- * @class samples.widgetLibs.html.template.SimpleTemplateController
+ * @class samples.widgets.widgetlibs.html.template.SimpleTemplateController
  */
 Aria.classDefinition({
 	$classpath : 'samples.widgets.widgetlibs.html.template.SimpleTemplateController',
