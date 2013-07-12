@@ -1,6 +1,6 @@
 /**
  * TODOC
- * @class samples.templates.refresh.templates
+ * @class samples.features.refresh.TemplateRefreshScript
  */
 Aria.tplScriptDefinition({
 	$classpath : 'samples.features.refresh.TemplateRefreshScript',

@@ -1,7 +1,7 @@
 {Template {
 	$classpath:'samples.utils.scrollcontrol.ScrollControlTwo',
 	$hasScript:true,
-	$css:['samples.templates.scrollcontrol.ScrollControlTwoCSS']
+	$css:['samples.utils.scrollcontrol.ScrollControlTwoCSS']
 }}
 
 

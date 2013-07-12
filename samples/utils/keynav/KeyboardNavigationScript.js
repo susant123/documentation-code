@@ -1,6 +1,6 @@
 /**
  * Script associated to keyboard navigation
- * @class samples.templates.keynav.KeyboardNavigationScript
+ * @class samples.utils.keynav.KeyboardNavigationScript
  */
 Aria.tplScriptDefinition({
 	$classpath : 'samples.utils.keynav.KeyboardNavigationScript',

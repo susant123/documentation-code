@@ -1,6 +1,6 @@
 /**
  * TODOC
- * @class samples.templates.scrollcontrol.exampletwo.ScrollControlTwoScript
+ * @class samples.utils.scrollcontrol.ScrollControlTwoScript
  */
 Aria.tplScriptDefinition({
 	$classpath : 'samples.utils.scrollcontrol.ScrollControlTwoScript',
