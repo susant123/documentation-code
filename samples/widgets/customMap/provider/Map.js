@@ -271,7 +271,7 @@ Aria.classDefinition({
 			var group;
 			for (var i = 0, groupsNb = markerGroups.length; i < groupsNb; i++) {
 				group = markerGroups[i];
-				this.markerGroups[group.name] = new samples.widgetLibs.embed.customMap.provider.MarkerGroup(group);
+				this.markerGroups[group.name] = new samples.widgets.customMap.provider.MarkerGroup(group);
 			}
 
 		},
