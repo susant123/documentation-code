@@ -210,7 +210,7 @@ Aria.classDefinition({
 	$prototype : {
 
 		/**
-		 * @param {samples.widgetLibs.embed.customMap.provider.MapBeans.Map} cfg
+		 * @param {samples.widgets.customMap.provider.MapBeans.Map} cfg
 		 * @return {Boolean}
 		 * @private
 		 */
@@ -219,7 +219,7 @@ Aria.classDefinition({
 			try {
 				cfgOk = aria.core.JsonValidator.normalize({
 					json : cfg,
-					beanName : "samples.widgetLibs.embed.customMap.provider.MapBeans.Map"
+					beanName : "samples.widgets.customMap.provider.MapBeans.Map"
 				}, true);
 			} catch (e) {
 				var logs = aria.core.Log;
@@ -243,7 +243,7 @@ Aria.classDefinition({
 
 		enableScrollWheelZoom : function (enable) {},
 		/**
-		 * @param {samples.widgetLibs.embed.customMap.provider.MapBeans.Map} cfg
+		 * @param {samples.widgets.customMap.provider.MapBeans.Map} cfg
 		 * @return {Object} Map options accepted by the Microsoft Map API
 		 */
 		_getMapOptionsFromCfg : function (cfg) {
