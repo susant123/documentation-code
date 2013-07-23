@@ -1,0 +1,7 @@
+title: File Upload
+template: samples.utils.fileupload.FileUpload
+description: Simulate a form submission asyncronously using the IFrame IO transport. Useful when uploading files without refreshing the whole page.
+sources:
+- FileUpload.tpl
+- FileUploadScript.js
+- FileUploadStyle.tpl.css

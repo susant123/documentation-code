@@ -1,0 +1,7 @@
+title: Gestures
+template: samples.utils.touch.gesture.Gestures
+description: Demonstration of all gestures: tap, double tap, single tap, long press, drag, swipe and pinch. 
+sources:
+- Gestures.tpl
+- GesturesScript.js
+- GesturesStyle.tpl.css

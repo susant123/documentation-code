@@ -1,0 +1,20 @@
+{CSSTemplate {
+	$classpath : "samples.widgets.embedElement.EmbedSampleCSS"
+}}
+
+	{macro main ()}
+		.googleMapContainer {
+			width: 800px;
+			height: 500px;
+		}
+		
+		.mySection {
+			border: 1px dashed red;
+			display: block;
+			margin-bottom: 20px;
+		}
+		
+	{/macro}
+
+
+{/CSSTemplate}

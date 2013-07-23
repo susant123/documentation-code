@@ -1,0 +1,10 @@
+title: Embed Element
+template: samples.widgets.embedElement.EmbedSample
+description: Creates special type of DOM container to include standard HTML/JS/CSS.
+sources:
+- EmbedSample.tpl
+- EmbedSampleScript.js
+- EmbedSampleController.js
+- EmbedSampleCSS.tpl.css
+- GoogleMapController.js
+- IEmbedSampleController.js
